@@ -49,9 +49,9 @@ node src/<data_structure>
 - [x] Unit tests exist for all methods of Binary (Search) Tree.
 - [ ] A working implementation of the Tree Node data structure is complete.
 - [ ] Unit tests exist for all methods of Tree Node.
-- [ ] A working implementation of the Directed Graph data structure is complete.
-- [ ] Unit tests exist for all methods of Directed Graph.
-- [ ] Repository includes a README file with basic installation and setup instructions.
+- [x] A working implementation of the Directed Graph data structure is complete.
+- [x] Unit tests exist for all methods of Directed Graph.
+- [x] Repository includes a README file with basic installation and setup instructions.
 - [x] All dependencies are properly declared in package.json.
 - [x] All major features are added via pull requests with a clear description and concise commit messages.
 - [x] Code uses a linter and there are no linting errors.
