@@ -6,7 +6,9 @@ Base repository for the [Core Data Structures](http://jsdev.learnersguild.org/go
 
 ## Installation and Setup
 
-_Fill this out_
+- Clone the repo
+```git clone 
+
 
 ## Usage and Examples
 
