@@ -35,8 +35,6 @@ node src/<data_structure>
 - [x] Unit tests exist for all methods of Queue.
 - [x] A working implementation of the Priority Queue data structure is complete.
 - [x] Unit tests exist for all methods of Priority Queue.
-- [ ] A working implementation of the Priority Node data structure is complete.
-- [ ] Unit tests exist for all methods of Priority Node.
 - [x] A working implementation of the Doubly-Linked List data structure is complete.
 - [x] Unit tests exist for all methods of Doubly-Linked List.
 - [x] A working implementation of the Double Node data structure is complete.
@@ -47,8 +45,6 @@ node src/<data_structure>
 - [x] Unit tests exist for all methods of Hash Table.
 - [x] A working implementation of the Binary (Search) Tree data structure is complete.
 - [x] Unit tests exist for all methods of Binary (Search) Tree.
-- [ ] A working implementation of the Tree Node data structure is complete.
-- [ ] Unit tests exist for all methods of Tree Node.
 - [x] A working implementation of the Directed Graph data structure is complete.
 - [x] Unit tests exist for all methods of Directed Graph.
 - [x] Repository includes a README file with basic installation and setup instructions.
