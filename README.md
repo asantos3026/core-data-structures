@@ -35,8 +35,8 @@ node src/<data_structure>
 - [x] Unit tests exist for all methods of Queue.
 - [x] A working implementation of the Priority Queue data structure is complete.
 - [x] Unit tests exist for all methods of Priority Queue.
-- [] A working implementation of the Priority Node data structure is complete.
-- [] Unit tests exist for all methods of Priority Node.
+- [ ] A working implementation of the Priority Node data structure is complete.
+- [ ] Unit tests exist for all methods of Priority Node.
 - [x] A working implementation of the Doubly-Linked List data structure is complete.
 - [x] Unit tests exist for all methods of Doubly-Linked List.
 - [x] A working implementation of the Double Node data structure is complete.
