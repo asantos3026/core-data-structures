@@ -45,16 +45,16 @@ node src/<data_structure>
 - [x] Unit tests exist for all methods of Set.
 - [x] A working implementation of the Hash Table data structure is complete.
 - [x] Unit tests exist for all methods of Hash Table.
-- [] A working implementation of the Binary (Search) Tree data structure is complete.
-- [] Unit tests exist for all methods of Binary (Search) Tree.
-- [] A working implementation of the Tree Node data structure is complete.
-- [] Unit tests exist for all methods of Tree Node.
-- [] A working implementation of the Directed Graph data structure is complete.
-- [] Unit tests exist for all methods of Directed Graph.
-- [] Repository includes a README file with basic installation and setup instructions.
-- [] All dependencies are properly declared in package.json.
-- [] All major features are added via pull requests with a clear description and concise commit messages.
+- [ ] A working implementation of the Binary (Search) Tree data structure is complete.
+- [ ] Unit tests exist for all methods of Binary (Search) Tree.
+- [ ] A working implementation of the Tree Node data structure is complete.
+- [ ] Unit tests exist for all methods of Tree Node.
+- [ ] A working implementation of the Directed Graph data structure is complete.
+- [ ] Unit tests exist for all methods of Directed Graph.
+- [ ] Repository includes a README file with basic installation and setup instructions.
+- [ ] All dependencies are properly declared in package.json.
+- [ ] All major features are added via pull requests with a clear description and concise commit messages.
 - [x] Code uses a linter and there are no linting errors.
-- [] Variables, functions, files, etc. have appropriate and meaningful names.
-- [] Functions are small and serve a single purpose.
-- [] The artifact produced is properly licensed, preferably with the MIT license.
+- [ ] Variables, functions, files, etc. have appropriate and meaningful names.
+- [ ] Functions are small and serve a single purpose.
+- [ ] The artifact produced is properly licensed, preferably with the MIT license.
