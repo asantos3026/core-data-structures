@@ -6,7 +6,7 @@ chai.use(chaiChange)
 
   let dirGraph
 
-describe.only('DirectedGraph', () => {
+describe('DirectedGraph', () => {
   beforeEach(() => {
     dirGraph = new DirectedGraph()
   })
